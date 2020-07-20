@@ -1,4 +1,5 @@
 <?php
+// Everything is ok
 class Fruit {
   // Properties
   public $name;
